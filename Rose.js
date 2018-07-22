@@ -259,17 +259,17 @@ function isYoutube(str) {
 client.on('ready', () => {
   client.user.setGame(` By M3a4x #4272 .`,'https://www.twitch.tv/mjrmqm');
   console.log('---------------');
-  console.log('Falsteni Bot Is Online')
+  console.log('Rose Bot Is Online')
   console.log('---------------')
 });
 
 client.on('ready', () => {
    console.log(`----------------`);
-      console.log(`Falsteni Bot - Script By : M3a4x`);
+      console.log(`Rose Bot - Script By : M3a4x`);
         console.log(`----------------`);
       console.log(`ON ${client.guilds.size} Servers '     Script By : M3a4x ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(` FuCk All Of You | fhelp  `,"http://twitch.tv/mjrmqm")
-client.user.setStatus("dnd")
+client.user.setGame(` 1play -  `,"http://twitch.tv/mjrmqm")
+client.user.setStatus("online")
 });
